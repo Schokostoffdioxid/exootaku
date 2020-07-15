@@ -8,6 +8,6 @@ you might want to install the [ESLint](https://marketplace.visualstudio.com/item
 
 To edit some rules you can add them to the [.eslintr.js](.eslintrc.js) file.
 
-for Testing Please make sure to use the Jest library which is part of `react-scripts` just type `yarn test` to start the testing process. 
+for Testing Please make sure to use the Jest library which is part of `react-scripts` just type `npm test` to start the testing process. 
 
 ATM I've implemented some Snapshot Tests for certain Components. Please feel free to add some on your own.
