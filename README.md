@@ -1,4 +1,4 @@
-#Eootaku (Working Title) Anime List App with React and jika
+# Eootaku (Working Title) Anime List App with React and jika
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
